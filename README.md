@@ -1,6 +1,6 @@
 # mediCenter
 
-Projeto mediCenter elaborado para fixar o aprendizado com Html, Css, Flexbox.
+Projeto "mediCenter" foi elaborado para fixar o aprendizado adquirido atravez do Curso de Desenvolvimento web.
 
-Foi realizado a contrução de website simples para um clíca médica usando somente HtmL5, Css3, Flexbox. 
+Com esse projeto aprendemos como criar um website simples para um clíca médica usando somente HtmL5, Css3 e Flexbox. 
 
